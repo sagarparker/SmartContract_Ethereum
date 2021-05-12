@@ -1,0 +1,30 @@
+{
+  "name": "infurra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "InfyCoin.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "dotenv": "^9.0.0",
+    "express": "^4.17.1",
+    "truffle-hdwallet-provider-privkey": "^0.3.0",
+    "web3": "^1.3.5",
+    "web3-eth-contract": "^1.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagarparker/SmartContract_Ethereum.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagarparker/SmartContract_Ethereum/issues"
+  },
+  "homepage": "https://github.com/sagarparker/SmartContract_Ethereum#readme"
+}
